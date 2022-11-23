@@ -1,6 +1,6 @@
 <div style="font-style: bold; text-align: center;" markdown="1">
 
-## Association Rule Based Recommender System
+## Hybrid Recommender System
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Problem
 
-It is desired to suggest 10 movies for the user whose ID is given, using the item-based and user-based recommender
+It is desired to suggest 10 movies for the user whose ID is given, using the **item-based** and **user-based** recommender
 methods.
 
 ---
